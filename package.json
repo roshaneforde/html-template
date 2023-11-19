@@ -1,7 +1,7 @@
 {
-  "name": "html",
+  "name": "html-template",
   "version": "1.0.0",
-  "description": "Landing page.",
+  "description": "This is a simple HTML template for quick starting a project",
   "scripts": {
     "dev": "mix",
     "watch": "mix watch",

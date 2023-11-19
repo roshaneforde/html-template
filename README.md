@@ -1,6 +1,6 @@
-# Roshane Forde -  Landing Page
+# HTML Template
 
-This is a simple landing page. It is built with pure HTML, CSS and JavaScript. It is also responsive and mobile friendly.
+This is a simple HTML template that I use to start my projects. It includes a basic folder structure with some default styles. It also uses laravel mix to compile the assets and copy them to the dist folder.
 
 ## Development
 
